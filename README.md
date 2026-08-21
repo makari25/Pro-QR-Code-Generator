@@ -17,14 +17,8 @@ High Error Correction Level (H) to ensure scannability even if partially obscure
 Downloadable: Export generated QR codes instantly as high-quality PNG files.
 Zero Dependencies: Runs entirely in the browser. No data is sent to any server.
 
-### 📦 Installation & Deployment
-To use this on your GitHub Page:
-Create a Repository: Create a new repository on GitHub.
-Upload File: Upload the index.html file provided above to the root of the repository.
-Enable Pages:
-Go to repository Settings > Pages.
-Under "Source", select the main branch and click Save.
-Access: Your site will be live at https://[your-username].github.io/[repo-name]/.
+### 📦 Access
+Access: https://makari25.github.io/Pro-QR-Code-Generator/
 
 ### 🛠️ Technology Stack
 Frontend: HTML5, CSS3, JavaScript (ES6+)
